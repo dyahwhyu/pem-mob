@@ -1,16 +1,8 @@
-# kelola_duit
+Dyah Wahyu Permatasari
+20051204079
 
-A new Flutter project.
+# Stok Dry Food
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplikasi ini merupakan aplikasi mini CRUD yang digunakan untuk menghitung pasokan atau stok dry food kucing. 
+Aplikasi ini dapat menambahkan data baru, menghapus, dan mengupdate data yang sudah ada. 
+Aplikasi ini menggunakan SQLite sebagai database lokal.
